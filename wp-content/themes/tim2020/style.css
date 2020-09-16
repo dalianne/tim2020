@@ -937,7 +937,8 @@ textarea {
 
 /* Mon Site
 --------------------------------------------- */
-.site-title {
+.site-title a {
   font-size: 8em;
+  color: palegreen;
 }
 /*# sourceMappingURL=style.css.map */
